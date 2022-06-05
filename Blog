@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <img src="https://cdn-icons-png.flaticon.com/512/4392/4392486.png" alt="sticker" width="70" height="70">
+        <h1>Вкусно и полезно. Здоровая жизнь </h1>
+        <br>
+
+        <img src="https://proprikol.ru/wp-content/uploads/2020/06/kartinki-zdorovoe-pitanie-1-650x433.jpg"
+            alt="food photo" width="800" height="500">
+    </header>
+
+    <nav>
+        <h2>Навигация по сайту</h2>
+        <img src="https://cdn-icons-png.flaticon.com/512/1998/1998592.png" alt="print" width="70" height="70" />
+        <br>
+
+
+        1. <a href="#avtor">Об Авторе и о блоге</a><br>
+        2. <a href="#receipes"> Рецепты </a><br>
+        3. <a href="#zozh"> ЗОЖ </a> <br>
+        4. <a href="#contact"> Обратная связь</a> <br>
+    </nav>
+
+    <main>
+
+        <section>
+            <h2>
+                <a name="avtor">Об Авторе и о блоге</a>
+            </h2>
+            <img src="https://cdn-icons-png.flaticon.com/512/1236/1236825.png" alt="print" width="70" height="70" />
+            <br>
+            Привет! Я - Нюра Пушистая, автор блога о правильном питании и здоровом образе жизни.
+            Представленные
+            рецепты
+            проверены временем, родными и близкими.
+            <br>
+            Информация и умозаключения о ПП и ЗОЖ согласованы с ведущими специалистами в биохимии,
+            нутрициологии, психологии и
+            гастроэнтерологии. А также проверены на личном опыте.
+            <br>
+
+        </section>
+
+        <section>
+            <h2>
+                <a name="receipes">Рецепты</a>
+            </h2>
+            <img src="https://cdn-icons.flaticon.com/png/512/450/premium/450064.png?token=exp=1654445372~hmac=d42816802807b62504aff6284671f8b5"
+                alt="chef" width="70" height="70" /><br>
+
+            <aside>
+                <ul>
+
+                    <li>Хлеб на рисовой закваске</li>
+                    <li>Шарлотка без глютена</li>
+                    <li>Диа-кекс</li>
+                    <li>Спорт-кебаб</li>
+                </ul>
+            </aside>
+        </section>
+
+
+        <section>
+            <article>
+                <h3>Рецепт безглютенового хлеба на рисовой закваске</h3>
+
+
+                <a href="https://www.youtube.com/watch?v=cHnAm-EmUjU" target="_blank"><span
+                        style=color:blueviolet>Видео-рецепт (смотреть в новом окне)</span></a>
+            </article>
+            <article>
+                <h3>Рецепт безглютеновой шарлотки</h3>
+
+                <a href="https://1000.menu/cooking/52138-sharlotka-bez-glutena" target="_blank"><span
+                        style=color:blueviolet>Читать рецепт в новом окне</span></a>
+            </article>
+            <article>
+
+                <h3>Рецепт кекса без молока, яиц и сахара</h3>
+
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/F5zFSIJgn-g"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </article>
+            <article>
+
+                <h3>Набор продуктов для приготовления спорт-кебаба перед тренировкой</h3>
+
+                <video poster="https://cdn-icons-png.flaticon.com/512/135/135643.png" muted controls width="300"
+                    src="Video.mp4"></video>
+
+            </article>
+        </section>
+
+        <div>
+            <h2>
+                <a name="zozh">Здоровый образ жизни</a>
+            </h2>
+            <img src="https://cdn-icons-png.flaticon.com/512/706/706164.png" alt="food" width="70" height="70">
+            <p>Всем Пушистикам, Гладкошестным и Бесшерстным представителям Кото-комьюнити ученые
+                специалисты рекомендуют пробегать или проходить ежедневно не менее 5 км. Спать нужно хотя бы 12
+                часов в сутки.
+                При этом дневной сон должен занимать 30% от общего времени сна. В питании необходимо ограничивать
+                глютен, коровий белок и сахар. Употреблять побольше свежих овощей, рыбу, нежирное мясо. Воду нужно
+                пить из расчета минимум 30 г на 1 кг веса. Стресс недопустим. В случае возникновения жизненных
+                проблем и неприятностей - нужно срочно широко улыбаться. Смотреть на цветы, рассветы и закаты
+                минимум два раза в неделю. Практиковать расслабляющие методики и самомассаж.</p>
+
+        </div>
+
+    </main>
+
+
+    <footer>
+        <h2>
+            <a name="contact">Обратная связь</a>
+        </h2>
+
+        <address>
+            <p>Пишите мне: <a href="mail@cat.com" target="_blank">Почта</a> </p>
+            <p>Звоните мне +222 33 444 555</p>
+        </address>
+
+        <nav>
+            <h4>Навигация по сайту:</h4>
+            1. <a href="#avtor">Об Авторе и о блоге</a><br>
+            2. <a href="#receipes"> Рецепты </a><br>
+            3. <a href="#zozh"> ЗОЖ </a> <br>
+            4. <a href="#contact"> Обратная связь </a> <br>
+        </nav>
+        <figure>
+            <img src="https://cdn-icons-png.flaticon.com/512/763/763706.png" alt="chef cat" width="50" height="50">
+            <img src="https://cdn-icons-png.flaticon.com/512/4646/4646265.png" alt="yoga cat" width="50" height="50">
+            <img src="https://cdn-icons.flaticon.com/png/512/2713/premium/2713564.png?token=exp=1654460455~hmac=deab0d7d175288e7559c563d39912110"
+                alt="vegetables" width="50" height="50">
+            <img src="https://cdn-icons.flaticon.com/png/512/3906/premium/3906629.png?token=exp=1654460610~hmac=821b83190e14ebdf5bfd36f17c57a997"
+                alt="sleeping cat" width="50" height="50">
+            <img src="https://cdn-icons-png.flaticon.com/512/1146/1146885.png" alt="sunrise" width="50" height="50">
+        </figure>
+    </footer>
+
+</body>
+
+</html>
